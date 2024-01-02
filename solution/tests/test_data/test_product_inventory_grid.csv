@@ -1,0 +1,24 @@
+LOCATION,WEEK_START,X,INVENTORY_CURVE_ID,PRODUCT,CONSUMPTION_PROFILE_CURVE_ID,Y
+Innovation Hill Federated,12.06.2023,0,690,Spicy Kale Soup,923.0,0
+Innovation Hill Federated,12.06.2023,500,690,Spicy Kale Soup,923.0,0
+Innovation Hill Federated,12.06.2023,10079,690,Spicy Kale Soup,923.0,2
+Innovation Hill Federated,19.06.2023,0,934,Spicy Kale Soup,1649.0,0
+Innovation Hill Federated,19.06.2023,400,934,Spicy Kale Soup,1649.0,0
+Innovation Hill Federated,19.06.2023,500,934,Spicy Kale Soup,1649.0,2
+Innovation Hill Federated,19.06.2023,10079,934,Spicy Kale Soup,1649.0,2
+Medicine West,19.06.2023,0,1418,Crispy Mango Burger,1404.0,0
+Medicine West,19.06.2023,220,1418,Crispy Mango Burger,1404.0,2
+Medicine West,19.06.2023,228,1418,Crispy Mango Burger,1404.0,2
+Medicine West,19.06.2023,10079,1418,Crispy Mango Burger,1404.0,2
+Innovation Hill Federated,19.06.2023,0,1619,Crispy Chocolate Stir-Fry,1649.0,1
+Innovation Hill Federated,19.06.2023,400,1619,Crispy Chocolate Stir-Fry,1649.0,1
+Innovation Hill Federated,19.06.2023,500,1619,Crispy Chocolate Stir-Fry,1649.0,0
+Innovation Hill Federated,19.06.2023,10079,1619,Crispy Chocolate Stir-Fry,1649.0,3
+Medicine West,19.06.2023,0,1623,Delicious Salmon Burger,1404.0,0
+Medicine West,19.06.2023,220,1623,Delicious Salmon Burger,1404.0,0
+Medicine West,19.06.2023,228,1623,Delicious Salmon Burger,1404.0,2
+Medicine West,19.06.2023,10079,1623,Delicious Salmon Burger,1404.0,2
+Innovation Hill Federated,19.06.2023,0,1725,Crispy Chicken Tacos,1649.0,0
+Innovation Hill Federated,19.06.2023,400,1725,Crispy Chicken Tacos,1649.0,0
+Innovation Hill Federated,19.06.2023,500,1725,Crispy Chicken Tacos,1649.0,0
+Innovation Hill Federated,19.06.2023,10079,1725,Crispy Chicken Tacos,1649.0,1

@@ -1,0 +1,17 @@
+{
+	"use_db": false,
+	"db": {
+		"host": "",
+    	"database": "",
+     	"username": "",
+     	"password": ""
+    },
+	"db_qos_data_table": "stg.qos_data",
+	"db_qos_curves_table": "stg.qos_curves",
+	"db_output_table": "quality_of_service",
+	"db_output_schema": "qos",
+    "paths": {
+        "input": "raw_data",
+        "output": "output"
+    }
+}

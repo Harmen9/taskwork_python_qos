@@ -1,0 +1,7 @@
+LOCATION,PRODUCT,INVENTORY_CURVE_ID,CONSUMPTION_PROFILE_CURVE_ID,WEEK_START,X,Y
+Innovation Hill Federated,Spicy Kale Soup,934,1649,19.06.2023,"[0, 500, 10079]","[0, 2, 2]"
+Innovation Hill Federated,Crispy Chicken Tacos,1725,1649,19.06.2023,"[0, 400, 10079]","[0, 0, 1]"
+Innovation Hill Federated,Crispy Chocolate Stir-Fry,1619,1649,19.06.2023,"[0, 500, 10079]","[1, 0, 3]"
+Innovation Hill Federated,Spicy Kale Soup,690,923,12.06.2023,"[0, 500, 10079]","[0, 0, 2]"
+Medicine West,Delicious Salmon Burger,1623,1404,19.06.2023,"[0, 220, 228, 10079]","[0, 0, 2, 2]"
+Medicine West,Crispy Mango Burger,1418,1404,19.06.2023,"[0, 220, 228, 10079]","[0, 2, 2, 2]"
